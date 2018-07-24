@@ -1,0 +1,1 @@
+python image_sender.pyw localhost 8810
